@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Save Files
+data/saves/*.json
+
+# .idea files
+.idea
